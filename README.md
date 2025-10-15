@@ -52,10 +52,10 @@ telco-customer-churn/
 
 ### Top Features
 1. Tenure
-2. Monthly Charges  
-3. Total Charges
-4. Contract Type
-5. Internet Service Type
+2. Total Charges  
+3. Monthly Charges 
+4. Internet Service Type
+5. Payment Method Elec. Check
 
 ## 🚀 Usage
 
