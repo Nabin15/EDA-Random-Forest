@@ -11,7 +11,7 @@ A machine learning project analyzing customer churn patterns and building a pred
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Nabin15/telco-customer-churn.git
+git clone https://github.com/Nabin15/EDA-Random-Forest.git
 cd telco-customer-churn
 pip install -r requirements.txt
 ```
